@@ -1,0 +1,501 @@
+Physics,Chemistry,Mathematics,Total_Score,Category,College
+67,61,50,282,OC,PSG College
+45,44,65,176,SC,Velammal Institute of Technology
+60,70,71,166,SC,PSG College
+48,55,95,242,MBC,SSN College
+64,89,56,166,ST,Kongu Engineering College
+67,95,89,156,ST,PSG College
+85,94,95,273,OC,St. Joseph's College
+66,90,85,129,ST,Rajalakshmi Engineering College
+99,61,49,160,MBC,IIT Madras
+46,82,53,293,SC,Rathinam Technical Campus
+46,59,99,201,BC,PSG College
+98,58,59,157,BC,Rathinam Technical Campus
+43,65,50,188,MBC,Hindustan University
+92,70,53,134,SC,Anna University
+94,72,45,214,OC,VIT
+98,49,54,232,OC,NIT Trichy
+96,95,95,187,MBC,Velammal Institute of Technology
+85,50,64,152,SC,IIT Madras
+90,49,80,299,OC,SRM University
+66,42,44,159,SC,Rathinam Technical Campus
+86,41,93,296,ST,Hindustan University
+65,62,82,217,SC,VIT
+88,99,92,204,MBC,SRM University
+88,92,69,143,MBC,Velammal Institute of Technology
+68,65,50,258,BC,Rathinam Technical Campus
+84,88,90,172,BC,PSG College
+64,87,62,208,OC,Velammal Institute of Technology
+45,48,49,240,BC,Anna University
+98,69,90,135,BC,NIT Trichy
+55,64,60,156,ST,Kongu Engineering College
+98,96,69,255,BC,VIT
+87,94,76,128,BC,IIT Madras
+43,84,76,215,SC,Kongu Engineering College
+94,42,71,188,MBC,SSN College
+62,68,82,121,MBC,PSG College
+76,81,40,126,SC,Rajalakshmi Engineering College
+63,85,86,168,OC,Hindustan University
+73,71,58,187,MBC,Thiagarajar College
+78,80,66,268,MBC,Rathinam Technical Campus
+68,79,45,280,OC,NIT Trichy
+76,49,98,131,OC,Rathinam Technical Campus
+69,73,90,226,MBC,SRM University
+42,81,69,201,SC,SRM University
+54,47,92,268,SC,Panimalar Engineering College
+88,51,64,245,MBC,Anna University
+65,56,87,201,SC,Velammal Institute of Technology
+89,49,73,177,ST,SRM University
+78,99,98,126,MBC,Rathinam Technical Campus
+72,64,66,254,SC,Panimalar Engineering College
+73,91,50,239,OC,VIT
+67,55,53,202,OC,Panimalar Engineering College
+62,46,43,234,MBC,Velammal Institute of Technology
+80,87,88,164,SC,SSN College
+56,95,60,179,OC,IIT Madras
+82,64,65,279,MBC,Velammal Institute of Technology
+54,55,52,190,SC,IIT Madras
+54,67,83,288,MBC,St. Joseph's College
+98,89,97,182,OC,SRM University
+74,92,42,128,SC,NIT Trichy
+41,79,95,173,MBC,Rathinam Technical Campus
+55,76,74,164,OC,Panimalar Engineering College
+76,65,44,241,ST,SSN College
+50,77,75,122,OC,PSG College
+48,52,41,130,SC,NIT Trichy
+78,93,90,277,SC,PSG College
+94,75,48,217,SC,Sastra University
+68,84,79,181,SC,Thiagarajar College
+71,58,48,204,SC,Rathinam Technical Campus
+81,83,54,197,SC,VIT
+93,53,70,183,MBC,St. Joseph's College
+54,59,72,142,MBC,NIT Trichy
+88,98,57,298,BC,Sastra University
+59,64,86,151,OC,SSN College
+59,77,81,173,MBC,Rathinam Technical Campus
+76,96,90,294,ST,Kongu Engineering College
+98,79,42,182,ST,SSN College
+50,71,80,125,SC,SRM University
+71,78,43,298,SC,Rathinam Technical Campus
+44,77,55,278,BC,Rajalakshmi Engineering College
+65,49,60,237,BC,Anna University
+47,75,42,281,OC,Panimalar Engineering College
+54,64,44,266,OC,IIT Madras
+89,66,72,160,OC,NIT Trichy
+95,76,79,201,OC,VIT
+69,41,62,184,BC,SSN College
+51,81,67,195,SC,St. Joseph's College
+53,74,64,187,SC,Anna University
+85,87,49,209,OC,St. Joseph's College
+94,53,51,151,BC,Rathinam Technical Campus
+57,71,57,122,BC,Anna University
+71,68,71,170,SC,SSN College
+63,55,59,206,ST,Rajalakshmi Engineering College
+81,78,96,206,ST,St. Joseph's College
+94,48,60,214,OC,Rathinam Technical Campus
+89,58,47,143,MBC,Kongu Engineering College
+41,51,43,238,BC,Panimalar Engineering College
+91,64,68,135,SC,IIT Madras
+55,70,90,296,BC,Rathinam Technical Campus
+76,70,88,239,ST,SRM University
+93,67,55,254,SC,PSG College
+76,79,74,244,SC,Panimalar Engineering College
+86,72,72,155,OC,PSG College
+94,51,92,208,OC,Rathinam Technical Campus
+46,94,93,294,SC,Velammal Institute of Technology
+43,71,61,243,MBC,SSN College
+78,72,60,264,BC,IIT Madras
+43,70,73,188,MBC,Sastra University
+86,70,57,182,OC,VIT
+50,84,84,142,MBC,Sastra University
+61,87,43,173,BC,St. Joseph's College
+61,63,48,297,OC,St. Joseph's College
+82,69,76,144,MBC,Panimalar Engineering College
+44,76,67,134,BC,Rathinam Technical Campus
+42,84,64,248,ST,Rathinam Technical Campus
+61,73,55,183,BC,PSG College
+58,99,90,258,MBC,Kongu Engineering College
+52,51,47,230,SC,Sastra University
+96,55,94,194,BC,SSN College
+73,81,54,286,BC,IIT Madras
+66,92,50,207,SC,NIT Trichy
+69,66,47,184,ST,SSN College
+57,58,77,208,SC,Velammal Institute of Technology
+95,95,96,241,BC,Kongu Engineering College
+66,59,85,150,MBC,SRM University
+77,89,77,230,ST,Thiagarajar College
+64,93,98,138,SC,NIT Trichy
+80,84,42,159,SC,Panimalar Engineering College
+45,42,88,198,OC,SRM University
+49,91,87,235,BC,St. Joseph's College
+86,85,49,285,ST,St. Joseph's College
+69,70,71,144,MBC,IIT Madras
+45,46,61,234,SC,PSG College
+41,98,43,257,MBC,St. Joseph's College
+79,43,57,292,MBC,IIT Madras
+92,63,49,133,ST,IIT Madras
+57,48,99,276,ST,Sastra University
+52,98,52,269,OC,Rajalakshmi Engineering College
+46,54,95,283,OC,Kongu Engineering College
+84,41,94,231,OC,IIT Madras
+64,50,41,204,ST,Velammal Institute of Technology
+81,77,50,256,MBC,VIT
+77,81,93,224,ST,NIT Trichy
+71,79,46,210,ST,SRM University
+82,68,74,130,SC,Panimalar Engineering College
+50,47,56,179,BC,SRM University
+46,45,69,145,OC,Velammal Institute of Technology
+93,66,75,230,ST,Rajalakshmi Engineering College
+63,87,84,277,OC,NIT Trichy
+80,78,88,275,SC,SRM University
+63,78,91,237,SC,SRM University
+82,95,97,163,SC,Rathinam Technical Campus
+86,65,49,196,BC,Thiagarajar College
+40,72,60,220,OC,Thiagarajar College
+82,90,67,269,MBC,PSG College
+88,88,95,293,OC,Thiagarajar College
+48,99,73,207,ST,Thiagarajar College
+85,40,43,276,ST,SSN College
+84,53,59,188,BC,Rathinam Technical Campus
+52,70,46,154,OC,SSN College
+59,59,95,145,BC,Rathinam Technical Campus
+59,71,97,211,ST,Thiagarajar College
+91,43,95,218,SC,St. Joseph's College
+82,75,75,184,BC,Sastra University
+48,78,40,204,OC,Velammal Institute of Technology
+95,60,83,216,ST,St. Joseph's College
+48,68,53,206,ST,Hindustan University
+92,40,54,294,OC,Velammal Institute of Technology
+92,96,53,268,MBC,Thiagarajar College
+48,83,88,125,OC,Hindustan University
+80,85,51,155,OC,SRM University
+78,62,55,231,BC,Sastra University
+91,44,70,246,BC,SRM University
+41,53,87,286,BC,Rathinam Technical Campus
+46,48,44,178,SC,Rathinam Technical Campus
+55,48,75,153,OC,IIT Madras
+89,42,75,120,OC,SSN College
+50,42,84,173,SC,Rajalakshmi Engineering College
+81,54,70,228,ST,PSG College
+73,99,59,153,MBC,Sastra University
+41,96,60,221,BC,Anna University
+76,54,42,163,ST,SRM University
+65,89,42,224,OC,Thiagarajar College
+82,71,85,139,SC,Thiagarajar College
+68,86,41,145,MBC,St. Joseph's College
+52,49,57,263,SC,Sastra University
+61,84,60,284,BC,Kongu Engineering College
+48,86,45,240,SC,Rathinam Technical Campus
+56,43,65,267,OC,Anna University
+87,63,84,188,MBC,St. Joseph's College
+40,46,51,231,SC,SRM University
+51,52,84,278,OC,Thiagarajar College
+57,63,99,166,SC,Velammal Institute of Technology
+83,54,73,241,SC,Rathinam Technical Campus
+86,69,42,228,MBC,Hindustan University
+79,56,43,276,BC,Panimalar Engineering College
+44,91,63,271,OC,Kongu Engineering College
+55,62,95,251,ST,SRM University
+72,82,44,191,BC,SSN College
+95,96,82,199,ST,St. Joseph's College
+44,46,92,298,BC,Kongu Engineering College
+43,45,76,218,BC,Anna University
+70,41,56,237,MBC,Kongu Engineering College
+89,88,88,167,ST,Velammal Institute of Technology
+45,79,56,239,ST,Anna University
+96,53,71,265,OC,St. Joseph's College
+77,94,94,179,ST,Rajalakshmi Engineering College
+71,67,47,235,OC,NIT Trichy
+49,84,66,159,MBC,St. Joseph's College
+67,91,56,157,OC,Kongu Engineering College
+50,84,68,239,SC,SSN College
+42,83,70,247,ST,Thiagarajar College
+57,94,46,288,OC,St. Joseph's College
+52,54,47,251,ST,NIT Trichy
+47,73,87,296,ST,PSG College
+89,75,46,161,SC,Anna University
+77,55,76,182,BC,SRM University
+86,93,55,175,OC,SSN College
+49,77,92,158,BC,SSN College
+89,42,72,292,ST,Thiagarajar College
+84,63,51,285,MBC,Anna University
+99,55,92,134,OC,St. Joseph's College
+98,93,45,210,BC,Hindustan University
+96,81,77,192,MBC,Hindustan University
+42,91,91,288,SC,Rajalakshmi Engineering College
+64,53,57,242,SC,PSG College
+70,48,67,190,MBC,NIT Trichy
+84,97,43,264,ST,St. Joseph's College
+69,98,87,263,BC,VIT
+54,54,49,255,OC,IIT Madras
+99,75,70,243,SC,Sastra University
+92,41,41,253,BC,Rathinam Technical Campus
+70,43,61,231,SC,Velammal Institute of Technology
+66,56,90,297,MBC,PSG College
+83,89,50,263,SC,Rathinam Technical Campus
+99,46,65,145,SC,Velammal Institute of Technology
+75,70,66,245,MBC,Anna University
+79,78,71,266,SC,Kongu Engineering College
+72,49,88,148,ST,Velammal Institute of Technology
+79,90,95,209,SC,Thiagarajar College
+62,89,53,127,ST,Anna University
+83,45,68,133,OC,Rathinam Technical Campus
+68,59,73,263,MBC,Panimalar Engineering College
+54,45,48,282,ST,Velammal Institute of Technology
+72,92,84,238,SC,Panimalar Engineering College
+56,72,50,234,MBC,Panimalar Engineering College
+63,91,83,236,ST,SRM University
+56,72,74,297,MBC,Hindustan University
+44,43,43,196,MBC,SSN College
+70,71,40,194,OC,SRM University
+60,66,61,174,SC,Sastra University
+54,42,55,183,SC,PSG College
+65,96,69,138,SC,PSG College
+58,95,58,145,SC,SRM University
+63,55,66,136,MBC,SRM University
+99,74,96,293,BC,NIT Trichy
+94,49,78,212,BC,SSN College
+59,95,73,189,OC,St. Joseph's College
+79,91,98,172,SC,Kongu Engineering College
+41,61,58,173,OC,Rathinam Technical Campus
+92,69,92,154,MBC,Velammal Institute of Technology
+65,86,96,190,ST,SRM University
+56,97,45,222,OC,SRM University
+75,93,78,255,SC,Hindustan University
+52,41,96,258,BC,PSG College
+53,47,42,185,MBC,Velammal Institute of Technology
+58,81,70,261,MBC,PSG College
+52,68,55,150,OC,Thiagarajar College
+63,49,88,236,MBC,Velammal Institute of Technology
+45,55,74,174,MBC,Hindustan University
+55,93,90,191,OC,Anna University
+74,47,50,254,BC,SSN College
+61,95,69,279,OC,Velammal Institute of Technology
+57,75,61,191,MBC,Kongu Engineering College
+48,76,54,125,MBC,Kongu Engineering College
+73,75,90,269,SC,VIT
+69,68,93,250,BC,NIT Trichy
+82,78,90,159,MBC,SRM University
+66,64,68,290,MBC,IIT Madras
+44,51,41,150,MBC,St. Joseph's College
+78,51,64,156,BC,SSN College
+96,63,82,141,BC,Anna University
+59,98,65,256,SC,Kongu Engineering College
+56,95,62,230,SC,IIT Madras
+51,54,84,195,SC,VIT
+46,41,42,177,OC,Kongu Engineering College
+87,44,46,274,SC,NIT Trichy
+97,65,90,146,MBC,Sastra University
+48,50,80,214,ST,PSG College
+82,59,50,142,SC,Rajalakshmi Engineering College
+92,60,80,149,BC,Rathinam Technical Campus
+79,41,56,287,SC,VIT
+74,91,75,296,SC,St. Joseph's College
+63,91,95,233,MBC,NIT Trichy
+42,70,50,281,OC,Anna University
+79,89,91,245,ST,PSG College
+52,76,63,270,ST,PSG College
+61,55,89,168,SC,SSN College
+55,86,95,176,SC,Panimalar Engineering College
+95,42,54,192,ST,Sastra University
+78,84,86,235,BC,SSN College
+84,90,52,203,OC,Panimalar Engineering College
+90,66,47,194,SC,SSN College
+68,63,72,267,OC,Sastra University
+70,97,73,274,OC,Rathinam Technical Campus
+60,44,40,296,SC,SRM University
+43,57,92,185,OC,VIT
+87,83,60,216,ST,Velammal Institute of Technology
+72,69,59,281,SC,Kongu Engineering College
+51,94,61,159,OC,St. Joseph's College
+40,65,68,210,ST,St. Joseph's College
+40,89,93,282,MBC,Hindustan University
+57,99,70,236,OC,Rathinam Technical Campus
+88,43,82,141,BC,IIT Madras
+71,75,97,148,BC,Sastra University
+89,48,68,298,SC,SSN College
+49,43,52,154,SC,Sastra University
+50,50,43,206,ST,Anna University
+75,76,56,221,SC,Rajalakshmi Engineering College
+67,68,60,255,OC,SRM University
+87,94,52,297,MBC,Hindustan University
+97,61,83,142,ST,Hindustan University
+95,46,95,155,BC,Hindustan University
+47,98,95,245,BC,Rajalakshmi Engineering College
+79,86,41,128,MBC,Sastra University
+67,62,79,246,ST,Sastra University
+45,49,69,283,OC,St. Joseph's College
+48,66,90,289,ST,Velammal Institute of Technology
+64,85,88,145,SC,Thiagarajar College
+78,58,75,287,OC,SRM University
+61,45,78,166,MBC,Anna University
+56,75,54,163,SC,Thiagarajar College
+91,48,47,166,BC,SSN College
+95,65,81,135,OC,Rathinam Technical Campus
+50,47,45,249,MBC,IIT Madras
+48,90,90,145,SC,IIT Madras
+71,77,59,245,SC,SSN College
+85,41,54,253,SC,SRM University
+45,57,94,253,SC,Rajalakshmi Engineering College
+90,72,61,252,MBC,Velammal Institute of Technology
+84,78,71,298,MBC,Kongu Engineering College
+84,87,86,210,SC,SRM University
+49,95,57,209,SC,Panimalar Engineering College
+72,88,58,139,MBC,Thiagarajar College
+56,92,95,168,SC,Rathinam Technical Campus
+80,45,69,168,MBC,Velammal Institute of Technology
+66,67,88,258,BC,Sastra University
+46,97,77,208,MBC,Panimalar Engineering College
+94,81,98,205,SC,PSG College
+79,67,68,215,ST,Rathinam Technical Campus
+56,54,58,217,MBC,Rathinam Technical Campus
+94,98,66,156,MBC,SSN College
+64,66,93,217,ST,VIT
+78,67,94,195,MBC,Panimalar Engineering College
+67,82,91,211,SC,SRM University
+89,48,46,142,ST,NIT Trichy
+81,72,66,259,ST,Velammal Institute of Technology
+79,75,60,292,MBC,Velammal Institute of Technology
+86,48,74,194,OC,Hindustan University
+50,63,78,257,SC,PSG College
+62,44,67,195,SC,IIT Madras
+61,71,59,168,SC,St. Joseph's College
+78,68,54,208,MBC,VIT
+93,90,59,133,BC,SRM University
+44,92,44,239,OC,Thiagarajar College
+97,50,64,155,SC,St. Joseph's College
+88,67,63,221,ST,Thiagarajar College
+59,65,87,279,ST,IIT Madras
+88,93,60,214,OC,Velammal Institute of Technology
+71,82,98,211,BC,NIT Trichy
+77,92,65,221,OC,Panimalar Engineering College
+79,78,87,249,SC,PSG College
+54,91,45,175,MBC,SRM University
+67,64,55,284,MBC,VIT
+79,56,96,254,MBC,Sastra University
+67,59,88,192,BC,St. Joseph's College
+44,69,74,129,MBC,Thiagarajar College
+83,73,82,151,ST,IIT Madras
+43,69,84,229,BC,SRM University
+64,91,97,144,BC,St. Joseph's College
+52,97,60,147,ST,IIT Madras
+45,64,73,235,ST,IIT Madras
+64,80,85,154,MBC,Panimalar Engineering College
+48,68,74,293,SC,Anna University
+81,76,67,135,BC,Hindustan University
+72,45,42,179,OC,VIT
+60,53,43,163,OC,Rajalakshmi Engineering College
+69,76,72,253,MBC,Panimalar Engineering College
+46,55,62,239,ST,VIT
+71,66,93,190,MBC,Panimalar Engineering College
+71,69,53,225,BC,Sastra University
+83,76,75,195,MBC,SSN College
+52,56,43,129,ST,Panimalar Engineering College
+49,83,41,215,ST,NIT Trichy
+42,70,58,204,OC,Panimalar Engineering College
+58,87,73,165,MBC,St. Joseph's College
+96,61,66,263,OC,PSG College
+84,76,47,241,MBC,Hindustan University
+58,80,62,281,ST,Hindustan University
+79,73,61,200,BC,Sastra University
+46,76,83,163,SC,Velammal Institute of Technology
+92,68,91,195,MBC,NIT Trichy
+85,99,43,251,OC,Anna University
+68,72,57,247,ST,Kongu Engineering College
+58,88,48,219,BC,SRM University
+86,47,77,239,BC,SSN College
+75,56,78,143,BC,PSG College
+72,69,80,296,OC,Hindustan University
+76,71,88,275,BC,Kongu Engineering College
+82,53,76,132,ST,St. Joseph's College
+51,41,65,276,SC,Sastra University
+86,43,88,286,ST,Velammal Institute of Technology
+99,65,97,289,ST,SRM University
+81,60,40,259,MBC,PSG College
+99,91,91,247,OC,Rathinam Technical Campus
+91,50,87,152,OC,VIT
+68,86,51,294,BC,Panimalar Engineering College
+57,47,81,245,SC,Anna University
+83,95,96,271,ST,Thiagarajar College
+55,54,46,132,ST,NIT Trichy
+52,55,66,269,BC,Thiagarajar College
+41,75,94,299,ST,Panimalar Engineering College
+80,85,53,214,BC,St. Joseph's College
+66,81,86,173,ST,Rajalakshmi Engineering College
+47,64,86,121,MBC,St. Joseph's College
+79,77,62,162,OC,Velammal Institute of Technology
+75,99,63,245,MBC,Sastra University
+66,94,61,253,BC,Kongu Engineering College
+87,95,88,218,MBC,Rathinam Technical Campus
+84,46,67,287,MBC,Rajalakshmi Engineering College
+81,84,50,197,MBC,Rathinam Technical Campus
+68,90,90,200,OC,Thiagarajar College
+71,96,59,151,BC,Thiagarajar College
+48,99,64,138,BC,SSN College
+89,89,64,229,BC,VIT
+54,66,60,268,OC,SSN College
+56,80,72,136,ST,St. Joseph's College
+78,95,49,192,OC,St. Joseph's College
+56,62,44,156,OC,St. Joseph's College
+42,68,40,127,SC,NIT Trichy
+96,68,53,234,OC,Sastra University
+68,94,64,280,OC,SRM University
+57,52,94,291,ST,SSN College
+65,66,59,216,SC,Panimalar Engineering College
+44,86,74,289,OC,Kongu Engineering College
+80,40,53,120,MBC,Rajalakshmi Engineering College
+99,94,80,134,ST,St. Joseph's College
+65,44,66,260,OC,NIT Trichy
+89,78,45,223,OC,Hindustan University
+45,53,74,125,OC,Rajalakshmi Engineering College
+46,48,99,214,OC,Rathinam Technical Campus
+81,52,63,215,MBC,Velammal Institute of Technology
+59,50,47,248,SC,Hindustan University
+69,81,80,159,MBC,Rathinam Technical Campus
+64,82,79,140,OC,Anna University
+64,70,85,199,ST,PSG College
+50,61,50,127,MBC,Thiagarajar College
+56,66,77,166,OC,Thiagarajar College
+52,71,78,228,BC,NIT Trichy
+95,79,62,235,SC,Hindustan University
+84,86,46,261,SC,SRM University
+82,50,79,225,OC,St. Joseph's College
+70,66,59,128,OC,Rajalakshmi Engineering College
+57,61,58,285,OC,Sastra University
+77,48,68,125,SC,Kongu Engineering College
+69,53,77,185,ST,IIT Madras
+46,70,56,269,MBC,NIT Trichy
+47,77,75,283,SC,SRM University
+75,59,88,194,BC,IIT Madras
+69,76,70,280,SC,Kongu Engineering College
+89,52,97,129,MBC,Velammal Institute of Technology
+60,57,69,226,SC,IIT Madras
+56,77,46,217,MBC,IIT Madras
+96,99,94,256,OC,VIT
+98,99,95,164,OC,SRM University
+83,58,65,181,SC,Rajalakshmi Engineering College
+71,73,53,181,ST,IIT Madras
+80,66,84,184,OC,NIT Trichy
+97,50,71,261,BC,Rathinam Technical Campus
+88,87,61,262,SC,Anna University
+76,56,79,187,ST,PSG College
+73,77,62,131,MBC,Anna University
+80,66,42,212,MBC,Sastra University
+49,44,44,244,ST,NIT Trichy
+58,77,73,205,MBC,PSG College
+80,63,51,138,MBC,NIT Trichy
+67,45,43,267,SC,SSN College
+73,46,60,213,BC,SRM University
+66,44,95,270,SC,IIT Madras
+66,81,65,214,MBC,Sastra University
+60,99,81,218,BC,Rathinam Technical Campus
+65,82,58,190,BC,Kongu Engineering College
+55,49,89,162,MBC,Kongu Engineering College
+99,57,67,248,ST,SSN College
+83,90,54,195,BC,Kongu Engineering College
+57,70,47,280,SC,Thiagarajar College
+53,58,94,203,ST,Hindustan University
+43,73,62,255,ST,St. Joseph's College
+90,67,90,257,BC,Panimalar Engineering College
+66,69,61,166,SC,St. Joseph's College
+54,79,48,178,BC,Panimalar Engineering College
