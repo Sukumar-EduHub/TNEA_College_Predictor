@@ -12,7 +12,7 @@ TNEA College Predictor is a Machine Learning-based web application that helps st
 Python (Flask)
 Pandas & NumPy
 Scikit-Learn (Machine Learning)
-HTML, CSS, JavaScript (Frontend)
+Streamlit (Frontend)
 GitHub for Version Control
 🚀 How It Works:
 Enter Physics, Chemistry, and Mathematics marks.
