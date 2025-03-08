@@ -1,26 +1,79 @@
-🎓 TNEA College Predictor – AI-Powered Admission Guidance 🚀
-TNEA College Predictor is a Machine Learning-based web application that helps students predict their eligible colleges based on their cutoff scores, category, and previous admission trends. This project aims to simplify the Tamil Nadu Engineering Admissions (TNEA) process by providing data-driven insights.
+🎓 TNEA College Predictor
 
-✨ Features:
-✅ Predict Colleges based on cutoff scores & category
-✅ Accuracy Score Display for model performance
-✅ Real-time College Suggestions using past trends
-✅ User-Friendly Web Interface for easy access
-✅ Scalable & Customizable for future improvements
+🚀 AI-powered College Prediction for Tamil Nadu Engineering Admissions (TNEA)
 
-🛠️ Technologies Used:
-Python (Flask)
-Pandas & NumPy
-Scikit-Learn (Machine Learning)
-Streamlit (Frontend)
-GitHub for Version Control
-🚀 How It Works:
-Enter Physics, Chemistry, and Mathematics marks.
-The system calculates your cutoff score.
-Choose your category (OC, BC, MBC, SC, ST).
-Click Predict College, and the AI suggests suitable colleges.
-View the prediction accuracy of the model.
-📌 Future Enhancements:
-🔹 More accurate predictions with real TNEA data
-🔹 Integration with official TNEA databases
-🔹 Mobile App Development for easy access
+📌 About
+
+TNEA College Predictor is a machine learning-based web application built using Python, Streamlit, and Scikit-Learn to help students predict the most suitable engineering college based on their Physics, Chemistry, Mathematics (PCM) scores, cutoff marks, and category.
+
+🛠️ Features
+
+✅ Predicts the best-fit engineering college based on TNEA cutoff marks.
+
+✅ Uses RandomForestClassifier for accurate predictions.
+
+✅ Encodes categorical data (Category & College) to prevent unseen label errors.
+
+✅ Interactive web-based UI using Streamlit.
+
+✅ Persists trained model & encoders using Joblib for faster inference.
+
+✅ Displays model accuracy and prevents missing data issues.
+
+🔧 Technologies Used
+
+Python 🐍
+
+Pandas & NumPy for data handling
+
+Scikit-Learn for machine learning
+
+Streamlit for UI
+
+Joblib for model persistence
+
+🚀 How to Run
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/your-username/TNEA_College_Predictor.git
+cd TNEA_College_Predictor
+
+2️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+3️⃣ Run the Streamlit App
+
+streamlit run app.py
+
+📊 Dataset
+
+The dataset (tnea_data.csv) should include the following columns:
+
+Physics (Marks out of 100)
+
+Chemistry (Marks out of 100)
+
+Mathematics (Marks out of 100)
+
+Total_Score (Cutoff Score out of 300)
+
+Category (OC, BC, MBC, SC, ST)
+
+College (Engineering College Name)
+
+💡 Future Enhancements
+
+🔹 Add more college datasets for better predictions
+
+🔹 Implement additional ML models (XGBoost, SVM) for accuracy comparison
+
+🔹 Improve UI with ranking & filtering features
+
+💪 Contributions & Feedback
+
+🙌 Contributions are welcome! Feel free to fork, improve, and submit a pull request.
+
+🔥 Star ⭐ the repository if you find it useful!
+
