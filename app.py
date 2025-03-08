@@ -53,22 +53,40 @@ else:
 y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 
-# 🔹 Streamlit UI
+# 🎨 Streamlit UI Design
 st.title("🎓 TNEA College Predictor")
-st.sidebar.header("🔍 Enter Your Marks")
 
-# 📌 User Input (Sidebar)
-math_marks = st.sidebar.number_input("Mathematics Marks (out of 100)", min_value=0, max_value=100, step=1)
-physics_marks = st.sidebar.number_input("Physics Marks (out of 100)", min_value=0, max_value=100, step=1)
-chemistry_marks = st.sidebar.number_input("Chemistry Marks (out of 100)", min_value=0, max_value=100, step=1)
-category = st.sidebar.selectbox("Category", ["OC", "BC", "MBC", "SC", "ST"])
+st.markdown(
+    """
+    ## 📌 Enter Your Marks
+    Fill in your Physics, Chemistry, and Mathematics marks to calculate your **TNEA Cutoff Score**.
+    """
+)
+
+# 📌 User Input
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    math_marks = st.number_input("📘 Mathematics Marks", min_value=0, max_value=100, step=1)
+with col2:
+    physics_marks = st.number_input("🔬 Physics Marks", min_value=0, max_value=100, step=1)
+with col3:
+    chemistry_marks = st.number_input("🧪 Chemistry Marks", min_value=0, max_value=100, step=1)
+
+category = st.selectbox("📌 Category", ["OC", "BC", "MBC", "SC", "ST"])
 
 # ✅ Automatically Calculate Cutoff Score
 cutoff_score = (math_marks / 2) + (physics_marks / 4) + (chemistry_marks / 4)
-st.sidebar.write(f"📊 **Calculated Cutoff Score: {cutoff_score:.2f}**")
+
+# ✅ Display Cutoff Score in Proper Format
+st.markdown(f"""
+    <div style="text-align: center; font-size: 24px; font-weight: bold; color: #2E86C1;">
+        ✅ Cut Off = {cutoff_score:.2f} / 200
+    </div>
+    """, unsafe_allow_html=True)
 
 # 🔍 Predict College
-if st.sidebar.button("Predict College"):
+if st.button("🎯 Predict College"):
     try:
         category_encoded = label_encoder_category.transform([category])[0]
         input_data = np.array([[physics_marks, chemistry_marks, math_marks, cutoff_score, category_encoded]])
@@ -76,7 +94,7 @@ if st.sidebar.button("Predict College"):
         predicted_college_code = model.predict(input_data)[0]
         predicted_college = label_encoder_college.inverse_transform([predicted_college_code])[0]
 
-        st.success(f"🎯 Predicted College: **{predicted_college}**")
-        st.info(f"📊 Model Accuracy: **{accuracy:.2%}**")
+        st.success(f"🎓 **Predicted College: {predicted_college}**")
+        st.info(f"📊 **Model Accuracy: {accuracy:.2%}**")
     except Exception as e:
         st.error(f"⚠️ Error: {str(e)}")
